@@ -1,5 +1,5 @@
 # Effective-Encryption-Tool-
-A highly effective encryption tool with more features in later versions. 
+A highly effective encryption tool with more features in later versions. Feel free to fork this repository and add useful features.
 
 ```#include <stdio.h>
 #include <stdlib.h>
