@@ -1,7 +1,7 @@
 # Effective-Encryption-Tool-
 A highly effective encryption tool with more features in later versions. 
 
-#include <stdio.h>
+```#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
